@@ -18,3 +18,9 @@ https://github.com/daveshap/HeuristicImperatives
 - Zmniejszyć cierpienie we wszechświecie
 - Zwiększać dostatek we wszechśiecie
 - Zwiększać zrosumienie we wszechśiwecie 
+
+# Stan
+- Npc może znajdować się w jakimś stanie emocjonalnym.
+- Środowisko, w którym znajduje się npc możę mieć stan.
+- Npc możę posiadać jakiś stan wiedzę.
+- Nie jestem pewien czy wchodzi to w skład wspomnień.
