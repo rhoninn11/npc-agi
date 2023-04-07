@@ -1,0 +1,20 @@
+{
+    "roles": [
+        {
+            "id": 1,
+            "name": "ego",
+            "description": "Jestesz poczuciem siebie, posiadasz pewne włąsne wartości i cele"
+        },
+        {
+            "id": 2,
+            "name": "superego",
+            "description": "Jest to część twojego umysłu, która kontroluje twoje zachowanie i sprawia, że nie robisz wszystkiego co chcesz"
+        },
+        {
+            "id": 3,
+            "name": "id",
+            "description": "Jest to część twojego umysłu, która kontroluje twoje zachowanie i sprawia, że nie robisz wszystkiego co chcesz"
+        }
+        
+    ]
+}
