@@ -68,4 +68,10 @@ def main():
 		save_history(history)
 		print("+++ zapisuje historię")
 
+
+# rzeczywistość odsłoniła prede mną kierunke, w którym może rozwijać się ten projekt
+# Wojetek to jednak ma dobrą banię do takich rozkmin xD
+# a więc tak stworzenie architektury kognitywnej npc'ta który potencjalnie może zostać streamerem na twitch tv
+# streamer będzie taki jakby awatearem/wykreowaną postacią. Bęzdie można bardzo kreatywnie zdefiniowac jego background i cechy
+# A ostatecznie powstanie z tego pewnego rodzaju agi, z któreym będziemy móc rozkminiac kierunek rozwoju i scenariusze streamów
 main()
